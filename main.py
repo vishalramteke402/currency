@@ -1,4 +1,3 @@
-pip install streamlit forex-python
 
 import streamlit as st
 from forex_python.converter import CurrencyRates, RatesNotAvailableError
